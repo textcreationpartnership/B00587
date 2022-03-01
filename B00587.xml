@@ -1,0 +1,334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The young-mans vvish, or, Behold his mind fulfil'd, whom love had almost kil'd, vvith joy reviv'd againe, as heere appeareth plaine: the like to this, ('twixt man and wife) I never heard yet, in all my life. To the tune of, I am in love, and cannot tell with whom.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00587</idno>
+            <idno type="STC">STC 20326</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[440]</idno>
+            <idno type="EEBO-CITATION">99884546</idno>
+            <idno type="PROQUEST">ocm99884546</idno>
+            <idno type="VID">183149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183149)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[233])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The young-mans vvish, or, Behold his mind fulfil'd, whom love had almost kil'd, vvith joy reviv'd againe, as heere appeareth plaine: the like to this, ('twixt man and wife) I never heard yet, in all my life. To the tune of, I am in love, and cannot tell with whom.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Wright, the younger, and are to be sold at his shop at the upper end of the Old-Bayley.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1635?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "VVhat strange affections have my thoughts possest ..."</note>
+                  <note>Signed: L.P. [i.e. Laurence Price].</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="440" facs="tcp:183149:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>The Young-mans Wish, OR,</head>
+            <head type="sub">
+               <l>Behold his mind fulfil'd, whom Love had almoſt kil'd,</l>
+               <l>VVith joy reviv'd againe, as heere appeareth plaine:</l>
+               <l>The like to this, ('twixt <hi>Man</hi> and <hi>Wife</hi>)</l>
+               <l>I never heard yet, in all my Life.</l>
+            </head>
+            <opener>To the tune of, <hi>I am in Love, and cannot tell with whom.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>VVHat ſtrange affections have my thoughts poſſeſt,</l>
+                  <l>that nothing will nor can my mind content?</l>
+                  <l>Or why ſhould love my inward parts moleſt,</l>
+                  <l>or time away in patience thus be ſpent?</l>
+                  <l>The cauſe Ile ſhew, but oh my heart will breake;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>I am in love, but know not how to ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>My Humors and my Fancies all are croſt,</l>
+                  <l>my minde ſo much diſturb'd I cannot ſleepe;</l>
+                  <l>By day my wits like tennis Balls are toſt,</l>
+                  <l>and every hower in dolefull dumps moſt déepe:</l>
+                  <l>I am caſt downe, all pleaſures I forſake,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>The reaſon is, I love and cannot ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Sometimes my Muſe aſcendeth up on high,</l>
+                  <l>and climes Parnaſſus hils for learnings lore;</l>
+                  <l>As ſoone againe it in the déepe doth lie,</l>
+                  <l>now high, then low; now rich, and ſtraightway poore:</l>
+                  <l>Now laugh &amp; ſmile, yet ſtraight my heart will breake;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For ſtill I love and know not how to ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I wander up and downe, and yet ſtand ſtill;</l>
+                  <l>I walke abroad, and yet lie ſick in bed:</l>
+                  <l>I live at libertie, and yet my will</l>
+                  <l>is into deſolation captive led:</l>
+                  <l>My health I have, yet life doth me forſake,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Though ſtill I love, I know not how to ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I féede, I feaſt, I fare on dainty dyet;</l>
+                  <l>I drinke the freſheſt wine, yet ſtill am dry:</l>
+                  <l>I take my reſt, and yet can have no quiet;</l>
+                  <l>I ſtand in water, yet in flames I frye:</l>
+                  <l>I ſulphur greatly, yet with cold I ſhake:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>I love in heart, and yet I dare not ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I weare good clothes, and yet I naked goe,</l>
+                  <l>with decent geſture ſéemely to behold;</l>
+                  <l>I am adorn'd from top unto the toe;</l>
+                  <l>And yet my ſhape is lothſome double fold:</l>
+                  <l>I have my wits, and yet I doe miſtake,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>'Tis all becauſe I love, and cannot ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I heare, I ſée, I ſmell, I taſte, I touch,</l>
+                  <l>and yet am ſenceles growne in every thing;</l>
+                  <l>Great want I féele, yet have (me thinks) too much,</l>
+                  <l>each ounce of mirth, a pound of griefe doth bring:</l>
+                  <l>I am inforc'd thus to the world to breake</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>My minde; but to my Love I cannot ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I live in peace, yet hold an inward ſtrife,</l>
+                  <l>
+                     <hi>Cupid</hi> that villaine wounded ſo my heart;</l>
+                  <l>I ſingle am, yet faine would have a Wife,</l>
+                  <l>to eaſe me of my dolour, griefe and ſmart:</l>
+                  <l>But ſhe with whom I gladly would partake,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Makes me abaſh'd, I know not how to ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="441" facs="tcp:183149:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 19 -->
+               <head>The ſecond Part.</head>
+               <opener>To the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>O That ſome Oratour would be ſo kinde,</l>
+                  <l>to plead my cauſe, and certifie my love;</l>
+                  <l>My paſſions and diſturbances of minde.</l>
+                  <l>to try if ſhe will prove my Turtle Dove:</l>
+                  <l>What almes or anſwer ſhe to me would make,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For oh alas, I love, but cannot ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But ſince no meanes or way I can invent,</l>
+                  <l>to bring her tidings of my hearts deſire;</l>
+                  <l>My time in Wiſhes ſhall be wholly ſpent,</l>
+                  <l>and <hi>Phoenix</hi>-like Ile waſt my ſelfe in fire:</l>
+                  <l>For while I live Ile ſorrow for her ſake,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Becauſe I want both Art and heart to ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>O that I were ſome curious King of Gold,</l>
+                  <l>to weare upon her finger for delight;</l>
+                  <l>That by ſome Merchant ſo I might be ſold</l>
+                  <l>for her owne uſe and ſervice day and night:</l>
+                  <l>Or would I were a bond-ſlave for her ſake;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>That feare might force, or Love me cauſe to ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Could I but crave to light her to her bed,</l>
+                  <l>it ſurely would revive my drooping heart;</l>
+                  <l>Or lay ſoft pillowes underneath her head;</l>
+                  <l>till dalliance long had made us loth to part:</l>
+                  <l>So finding ſcope, my wiſhed mind I'd breake,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>By ſignes, to heare, or touch, if not to ſpeake.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But O my heart, my wiſhes are in vaine,</l>
+                  <l>no hopes have I for this which here I crave;</l>
+                  <l>Nor know I any way her love to gaine;</l>
+                  <l>O would the Fates had dig'd my timeles grave:</l>
+                  <l>Where I might reſt ſecurely in my Tombe,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And not be found untill the day of doome.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>His Love (at laſt) who from a window high</l>
+                  <l>had heard the griefes and ſorrowes he indur'd;</l>
+                  <l>Thus comforts him with words immediately,</l>
+                  <l>thy love-ſicke heart (ſaid ſhe) ſhall ſoone be cur'd:</l>
+                  <l>Thou ſhalt no longer cauſe have to complaine;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>If thou lov'ſt me, Ile quit thy love againe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Thou wiſhedſt but my company a time;</l>
+                  <l>now here's my hands for ever and for aye,</l>
+                  <l>In weale or woe I will be wholly thine,</l>
+                  <l>my heart, my hand, my life ſhall thée obay:</l>
+                  <l>So, laſtly; thus their loves were truely tride,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>He was her Bridegroome, ſhe his lovely Bride.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <closer>
+               <signed>L. P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for <hi>Iohn Wright,</hi> the younger, and are to be ſold at his Shop at the upper end of the <hi>Old-Bayley.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
